@@ -1,0 +1,4 @@
+﻿  rc4.cpp
+D:\8868\Desktop\RC4\RC4\RC4\rc4.cpp(19,1): warning C4267: “初始化”: 从“size_t”转换到“unsigned int”，可能丢失数据
+D:\8868\Desktop\RC4\RC4\RC4\rc4.cpp(31,1): warning C4267: “初始化”: 从“size_t”转换到“unsigned int”，可能丢失数据
+  RC4.vcxproj -> D:\8868\Desktop\RC4\RC4\x64\Debug\RC4.exe
